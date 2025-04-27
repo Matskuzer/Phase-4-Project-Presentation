@@ -76,6 +76,6 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 ---
 
 ## 🪢 Presentation Link
-- Add a link to your video presentation or state that it was presented live.
+
 
 ---
