@@ -6,7 +6,10 @@
 **Pelilista**
 
 ---
+## 🪢 Presentation Link
+https://www.youtube.com/watch?v=SR94wDvtric
 
+---
 ## 📝 Project Overview
 Tämä projekti toteuttaa yksinkertaisen pelilistapalvelun, jossa käyttäjä voi hallita pelilistauksiaan.  
 Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suosikkipelien listaa.
@@ -72,10 +75,5 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 |27.4.2025 |   3 h |   Viimeistely |
 |27.4.2025 |   2 h |   Esityksen teko |
 |  Yhteensä:| 37 h |
-
----
-
-## 🪢 Presentation Link
-
 
 ---
