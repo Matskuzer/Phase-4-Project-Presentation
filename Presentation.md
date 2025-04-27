@@ -68,7 +68,7 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 |25.4.2025 |   6 h |   Jatkokehitys |
 |27.4.2025 |   3 h |   Viimeistely |
 |27.4.2025 |   2 h |   Esityksen teko |
-| | | Yhteensä: 37 h |
+| | Yhteensä: 37 h |
 
 ---
 
