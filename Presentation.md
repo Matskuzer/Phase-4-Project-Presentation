@@ -3,12 +3,13 @@
 ---
 
 ## 🎯 Project Title
-*Give your project a descriptive and informative title.*
+**Pelilista – Perusrunko ja päätoiminnallisuudet**
 
 ---
 
 ## 📝 Project Overview
-- Briefly describe the project’s purpose, its target users, and its context.
+Tämä projekti toteuttaa yksinkertaisen pelilistapalvelun, jossa käyttäjä voi hallita pelilistauksiaan.  
+Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suosikkipelien listaa.
 
 ---
 
@@ -16,30 +17,36 @@
 
 | Use Case | Implemented (Yes/No) | Demonstration / Notes |
 |:---|:---:|:---|
-| Example: User logs in and makes a reservation | Yes | Implemented using secure session handling. Demo at 2:45 in the video. |
-| Example: Admin deletes resources | No | Not prioritized, possible future work. |
-
-> Add explanations for each use case, including demo timestamps if using video.
+| Käyttäjä voi lisätä pelin listalle | Yes | Pelin lisääminen onnistuu lomakkeella. |
+| Käyttäjä voi tarkastella pelejä | Yes | Pelit näytetään listana frontendissä. |
+| Käyttäjä voi poistaa pelin listalta | No | Ei toteutettu tässä vaiheessa, mahdollinen tuleva parannus. |
 
 ---
 
 ## ✍️ Technical Implementation
-- Describe technologies used.
-- Describe architectural decisions.
-- Explain how key features were implemented.
+- **Frontend:** HTML, CSS ja JavaScript.
+- **Backend:** Node.js + Express.
+- **Tietokanta:** JSON-tiedosto simuloimassa pysyvää tallennusta (ei erillistä tietokantaa tässä versiossa).
+- **Arkkitehtuuri:** Yksinkertainen client-server malli. Frontend kommunikoi backendiin HTTP-pyyntöjen avulla.
+- **Keskeinen toteutus:** Pelien lisääminen ja näyttäminen haetaan palvelimelta dynaamisesti.
 
 ---
 
 ## 🚂 Development Process
-- Summarize your progress from start to finish.
-- Mention key decisions or changes along the way.
+- Aloitettu käyttöliittymän runkokehityksellä.
+- Tämän jälkeen rakennettu backend-serveri, joka palauttaa ja vastaanottaa pelidataa.
+- Testattu perustoiminnot paikallisesti ennen viimeistelyä.
+- Päätös olla käyttämättä ulkoista tietokantaa tässä vaiheessa yksinkertaisuuden vuoksi.
 
 ---
 
 ## ☀️ Reflection and Future Work
-- What worked well?
-- What challenges did you face?
-- What would you add or improve in the future?
+- **Toimivaa:** Frontend ja backend kommunikaatio toimii sujuvasti.  
+- **Haasteet:** Datan pysyvyyden hallinta ilman oikeaa tietokantaa rajoittaa toiminnallisuuksia.  
+- **Parannusehdotukset:** 
+  - Pelin poistotoiminnon lisääminen.
+  - Tietokantaintegraatio (esim. MongoDB tai PostgreSQL).
+  - Käyttöliittymän visuaalinen viimeistely.
 
 ---
 
@@ -47,10 +54,17 @@
 
 | Date | Time | Task |
 |:---|:---:|:---|
-| 2.4.2025 | 3h | Defined use cases |
-| 4.4.2025 | 2h | Built login form |
-| ... | ... | ... |
-| **Total** | **63h** | |
+| 2.4.2025 | 3h | Projektin perustaminen ja rakenteen luonti |
+| 4.4.2025 | 2h | Frontendin perusnäkymän rakentaminen |
+| 6.4.2025 | 3h | Backendin perustoimintojen rakentaminen |
+| 8.4.2025 | 2h | Frontendin ja backendin yhdistäminen |
+| 10.4.2025 | 1h | Testaus ja bugikorjaukset |
+| **Total** | **11h** | |
+
+---
+
+## 🪢 Presentation Link
+- Esitetty livenä.
 
 ---
 
