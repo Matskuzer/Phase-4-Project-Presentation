@@ -44,7 +44,6 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 - **Toimivaa:** Frontend ja backend kommunikaatio toimii sujuvasti.  
 - **Haasteet:** Datan pysyvyyden hallinta ilman oikeaa tietokantaa rajoittaa toiminnallisuuksia.  
 - **Parannusehdotukset:** 
-  - Pelin poistotoiminnon lisääminen.
   - Tietokantaintegraatio
   - Käyttöliittymän visuaalinen viimeistely.
 
