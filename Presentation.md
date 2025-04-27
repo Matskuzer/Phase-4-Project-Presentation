@@ -19,7 +19,7 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 |:---|:---:|:---|
 | Käyttäjä voi lisätä pelin listalle | Yes | Pelin lisääminen onnistuu lomakkeella. |
 | Käyttäjä voi tarkastella pelejä | Yes | Pelit näytetään listana frontendissä. |
-| Käyttäjä voi poistaa pelin listalta | No | Ei toteutettu tässä vaiheessa, mahdollinen tuleva parannus. |
+| Käyttäjä voi poistaa pelin listalta | Yes | Lisätty hyvä parannus. |
 
 ---
 
