@@ -3,7 +3,7 @@
 ---
 
 ## 🎯 Project Title
-**Pelilista – Perusrunko ja päätoiminnallisuudet**
+**Pelilista**
 
 ---
 
