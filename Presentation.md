@@ -54,12 +54,21 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 
 | Date | Time | Task |
 |:---|:---:|:---|
-| 2.4.2025 | 3h | Projektin perustaminen ja rakenteen luonti |
-| 4.4.2025 | 2h | Frontendin perusnäkymän rakentaminen |
-| 6.4.2025 | 3h | Backendin perustoimintojen rakentaminen |
-| 8.4.2025 | 2h | Frontendin ja backendin yhdistäminen |
-| 10.4.2025 | 1h | Testaus ja bugikorjaukset |
-| **Total** | **11h** | |
+|22.3.2025   | 2 h |   Projektin aloitus, määrittely ja Figma-suunnitelman teko|
+|23.3.2025 |   1 h | Käyttäjäpersoonien ja käyttötapausten kirjaus|
+|25.3.2025 |   3 h  |  HTML-pohjan ja lomakkeen rakenne|
+|26.3.2025|   2 h  |  JavaScript-perustoimintojen rakentaminen|
+|28.3.2025 |   3 h |   Backend (Node + Express) API-rungon teko|
+|1.4.2025 |   3 h  |  Tietokantarakenteet ja tallennus SQLiteen|
+|3.4.2025  |  2 h  |  Pelilistan näyttö ja hakutoiminto frontendissa|
+|6.4.2025  |  2 h  |  Pelin yksityiskohtien katselunäkymän teko|
+|9.4.2025 |   2 h |   Poistotoiminto ja virheiden korjaus|
+|11.4.2025 |   2 h |   Kommentointi, siistiminen ja tyylittely|
+|13.4.2025 |   4 h |   GitHub-käyttö, palautusmateriaalit ja testaus|
+|25.4.2025 |   6 h |   Jatkokehitys |
+|27.4.2025 |   3 h |   Viimeistely |
+|27.4.2025 |   2 h |   Esityksen teko |
+| | | Yhteensä: 37 h |
 
 ---
 
