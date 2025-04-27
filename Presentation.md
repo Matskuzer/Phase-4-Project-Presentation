@@ -20,6 +20,10 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 | Käyttäjä voi lisätä pelin listalle | Yes | Pelin lisääminen onnistuu lomakkeella. |
 | Käyttäjä voi tarkastella pelejä | Yes | Pelit näytetään listana frontendissä. |
 | Käyttäjä voi poistaa pelin listalta | Yes | Lisätty hyvä parannus. |
+|Käyttäjä selaa muiden pelilistoja | No |Ei toteutunut täysin: toimii vain paikallisesti (käyttäjä näkee omat listat, ei muiden). |
+|Käyttäjä hakee pelejä hakutoiminnolla | No |Ei toteutunut alkuperäisessä muodossa: teimme sovelluksesta yksityiskäyttöön, hakua ei tarvittu. |
+|Käyttäjä katsoo pelin lisätietoja | Yes |Lisäämällä pelin näkyy lisätiedot (kuvaus, vuosi, alusta). |
+|Ylläpitäjä poistaa epäasiallisia listoja | No | Ei toteutettu vielä, voisi lisätä myöhemmin hallintapaneelin avulla.|
 
 ---
 
