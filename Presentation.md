@@ -45,7 +45,7 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 - **Haasteet:** Datan pysyvyyden hallinta ilman oikeaa tietokantaa rajoittaa toiminnallisuuksia.  
 - **Parannusehdotukset:** 
   - Pelin poistotoiminnon lisääminen.
-  - Tietokantaintegraatio (esim. MongoDB tai PostgreSQL).
+  - Tietokantaintegraatio
   - Käyttöliittymän visuaalinen viimeistely.
 
 ---
@@ -60,11 +60,6 @@ Kohderyhmänä ovat käyttäjät, jotka haluavat ylläpitää ja tarkastella suo
 | 8.4.2025 | 2h | Frontendin ja backendin yhdistäminen |
 | 10.4.2025 | 1h | Testaus ja bugikorjaukset |
 | **Total** | **11h** | |
-
----
-
-## 🪢 Presentation Link
-- Esitetty livenä.
 
 ---
 
